@@ -9,7 +9,7 @@
 </ul>
 
 ```base
-git clone https://github.com/PavitarSharma/bot-ai.git
+
 cd bot-ai
 yarn
 yarn run dev
